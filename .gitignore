@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Build/Dist
+dist/
+build/
+*.egg-info/
+
+# Flask/Environment
+.env
+.flaskenv
+
+# IDEs
+.vscode/
+.idea/
+
+# OS/System
+.DS_Store
+Thumbs.db
+*.log
+
+# Custom
+replace_details.py
