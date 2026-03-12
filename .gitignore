@@ -7,7 +7,7 @@ __pycache__/
 *.py[cod]
 
 # Build/Dist
-dist/
+
 build/
 *.egg-info/
 
